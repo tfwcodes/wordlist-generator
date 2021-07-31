@@ -1,1 +1,1 @@
-# wordlist-generator
+# wordlist-generator in python
